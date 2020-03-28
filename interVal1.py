@@ -25,6 +25,7 @@ print("El valor de A es: %5.3f " % A)
 print("El valor de B es: %5.3f " % B)
 
 #FIN
+#editamos para ver cambios
   
 
   
